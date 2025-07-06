@@ -1,0 +1,10 @@
+INPUT: Final_sub_g2.inm
+MODNAME: apmain
+RUNID: Final_sub_g2
+NEW_RUNID: Final_sub_g2
+OLD_RUNID: Final_sub_g2
+PDF: Final_sub_g2.appdf
+USERNAME: aswarup23
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _3855edw.ads
